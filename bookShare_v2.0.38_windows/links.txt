@@ -1,0 +1,3 @@
+http://read.nlc.cn/allSearch/searchDetail?searchType=10024&showType=1&indexName=data_892&fid=001889453
+https://www.digital.archives.go.jp/DAS/meta/listPhoto?LANG=default&BID=F1000000000000095947&ID=&TYPE=dljpeg
+https://yun.szlib.org.cn/stgj2021/srchshowbook?type=5&book_id=18009
